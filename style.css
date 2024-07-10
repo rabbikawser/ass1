@@ -1,0 +1,174 @@
+
+  *{margin: 0; padding: 0; box-sizing: border-box;}
+ body{
+    font-family: "Azeret Mono";
+
+ }
+nav{
+    display:  flex;
+    justify-content: space-between;
+    padding: 0 120px;
+}
+nav button{
+    padding: 24px;
+    background-color: azure;
+    border-radius: 20px;
+}
+.banner{
+    background-image: url('assets/Hero-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+    height: fit-content;
+    height: 650px;
+
+}
+.banner p{
+color: #0D1321;
+text-align: center;
+font-family: "Azeret Mono";
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: 68px; 
+}
+.banner button{
+    padding: 20px;
+    background-color: #0e0d0d;
+    color: aliceblue;
+    font-family: "Azeret Mono";
+     font-size: 20px;
+     border-radius: 10px;
+}
+
+.sec1{
+    margin: 40px 60px;
+    background-color: #edf1f8;
+}
+.div1{
+    padding-top: 80px;
+    margin: 80px;
+    text-align: center;
+    color: #0D1321;
+
+     font-family: "Azeret Mono";
+  font-size: 16px;
+     font-style: normal;
+   font-weight: 400;
+/
+    
+}
+.div2{
+    display: flex;
+    justify-content: space-around;
+    margin: 80px; background-color: #fff; ;
+    
+    align-items: center;
+}
+.div3{
+    display: flex;
+    justify-content: space-around;
+    margin: 80px; background-color: #fff; ;
+    
+    align-items: center;
+}
+.div4{
+    display: flex;
+    justify-content: space-around;
+    margin: 80px; background-color: #fff; ;
+    align-items: center;
+    margin: 80px;
+    
+}
+.sec2{
+    margin: 150px;
+    
+}
+.div5{
+    text-align: center;
+    margin:100px;
+   
+}
+.div6{
+   margin: 80px;
+}
+.div7{
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 40px;
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+.div8{
+    margin-top: 20px;
+    background-image: url('assets/handshake.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 313px;
+    display: flex;
+    justify-content: center;
+
+}
+.div9{
+    
+   
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+.input{
+  height: 60px;
+  width: 550px;
+  border-radius: 10px;
+}
+.submit{
+    height: 60px;
+  border-radius: 10px;
+  color: black;
+}
+footer{
+    display: flex;
+    background-color: #a5a7aa;
+    align-items: center;
+    justify-content: space-around;
+}
+.ul{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+.video{
+    display: flex;
+    justify-content: center;
+}
+#go{
+    height: 100px;
+}
+.htm{
+    display: flex;
+    justify-content: space-around;
+    margin: 80px;
+}
+.a{
+    padding: 10px;
+    background-color: #fbf5f5;
+    margin-right: 10px;
+
+}
+.b{
+    padding: 10px;
+    background-color: #fefefe;
+    margin-right: 10px;
+}
+.c{
+    padding: 10px;
+    background-color: #dba3a3;
+    margin-right: 10px;
+}
